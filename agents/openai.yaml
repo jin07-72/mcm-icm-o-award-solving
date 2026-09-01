@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCM/ICM O奖解题助手"
+  short_description: "按历年O奖规律辅助MCM/ICM建模与论文质量审查"
+  default_prompt: "请按MCM/ICM O奖解题流程分析这道题，并给出模型、验证、图表与论文结构建议。"
